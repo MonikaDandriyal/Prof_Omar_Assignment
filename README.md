@@ -22,6 +22,7 @@ You can install them using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels jupyter
+```
 
 ## Installing
 
@@ -54,45 +55,17 @@ Future plans include deploying the model as a web service or integrating it into
 
 ## Author
 
-**[Your Full Name]**  
+**Monika Dandriyal**  
 *Data Analytics for Business Decision Making*  
 **Durham College**  
-[LinkedIn Profile] | [Email Address] *(optional)*
+[LinkedIn Profile](https://www.linkedin.com/in/monika-dandriyal/)
 
 ## License
 
-This project is licensed under the **MIT License** - see the `LICENSE` file for details.
+This project is unlicensed and performed on synthetic data as a part of course 1202.
 
 ## Acknowledgements
 
-- Walmart Retail Data sourced from [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/walmart-sales-forecasting)  
-- **Durham College** – Capstone Project  
+- **Prof. Omar Al Trad** 
+- **Durham College** – Capstone Project  Data Analytics 1202 - Introduction to Data Analysis 
 - **Scikit-learn**, **Statsmodels**, & **Pandas** open-source libraries
-
-
-
-
-
-
-
-
-
-
-
-
-# Prof_Omar_Assignment
-Python script for Data Analysis
-# Data Cleaning Script
-
-This project contains a Python script that performs basic data cleaning operations such as handling missing values, renaming columns, and exporting the cleaned dataset to a CSV file. It was developed as part of a Durham College data analytics lab.
-
-## Getting Started
-
-These instructions will help you run the script locally.
-
-### Prerequisites
-
-```bash
-pip install pandas
-
-#Running the Script 
